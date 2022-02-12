@@ -1,0 +1,7 @@
+kafka:
+    addr: [192.168.106.134:9092]
+etcd: 
+    endpoint: [192.168.106.134:2379]
+    key : transfer_%s
+es:
+    address: [http://192.168.106.134:9200]
